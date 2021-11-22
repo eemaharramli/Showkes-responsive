@@ -373,7 +373,7 @@ nav .navbar a:nth-of-type(2){
 	flex-direction: column;
 	justify-content: space-around;
 	align-items: center;
-	transition .5s liear all
+    	transition: .3s linear all;
 }
 
 #myWorks .myWorks__container .myWorks__title .myWorks__title-item:hover{
