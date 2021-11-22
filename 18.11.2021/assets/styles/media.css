@@ -62,6 +62,9 @@
     #myWorks .myWorks__container .myWorks__image-item img{
         width: 100%;
     }
+	#myWorks .myWorks__container .myWorks__info{
+		width: 80%
+	}
     #feedBack .feedBack__container .feedBack__form .form__inputs{
         width: 80%;
     }
